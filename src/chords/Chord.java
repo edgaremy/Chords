@@ -74,7 +74,7 @@ public class Chord implements Serializable {
         this.add = new ArrayList<>();
         this.mod = new ArrayList<>();
         if (this.name == null) {
-            throw new UnrecognizedChordException("** no chord matching **");
+            throw new UnrecognizedChordException("\nCannot create chord named:\n" + name + "\n");
         }
 
         String buffer = new String(this.name);

@@ -2,7 +2,6 @@ import chords.ProgManager;
 import chords.Progression;
 
 import java.util.ArrayList;
-// import java.util.Arrays;
 import java.io.InputStream;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -12,6 +11,7 @@ public class TestDatabase {
         try (InputStream inputStream = new FileInputStream("./data/progs.txt")) {
 
             ArrayList<Progression> progs = ProgManager.readProgressions(inputStream);
+            System.out.printf("All progression were successfully created from the file.\n");
 
         } catch (IOException e) {
             e.printStackTrace();
