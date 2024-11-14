@@ -1,34 +1,475 @@
-Fmaj7 E7 Am7 C7 Fmaj7 E7 Am7 Am7,A
-Ab7 Fm7(b5) Emaj7 Fm7(b5),Ab
-Cmaj7\A Dm9,C
-Cmaj7/9 Bbm\F Daug\F# Gm,G
-Gm7(b5) F#maj7 Fm7 A#m7,A#
-Ebmaj7 Am(b5) Cm6 D7,Eb
-Fmaj7/9 Em7/9,C
+Fmaj7 E7 Am7 C7 Fmaj7 E7 Am7 Am7
+Ab7 Fm7(b5) Emaj7 Fm7(b5)
+Cmaj7\A Dm9
+Cmaj7/9 Bbm\F Daug\F# Gm
+Gm7(b5) F#maj7 Fm7 A#m7
+Ebmaj7 Am(b5) Cm6 D7
+Fmaj7/9 Em7/9
+Gm7/11 Ebmaj7 Em7(b5) A7
+A7 Dm7
+Dmaj7 F#maj7 Em7/9 Em7(b5)
+Dm7 Fmaj7\Bb
+Fmaj7\Bb Am Gm7/9 Dm7/9
+Gmaj7/9 Dmaj7/9 Fmaj7/9 Cmaj7/9
+Gm7 Am7 Bbmaj7
+Em7 Am7 F#dim B7
+Gm7 Gm6 Ebmaj7 Em7(b5)
+Bb7 A7 Dm7 C Bb7 A7 Dm
+Am7 C7 D9 Fmaj7 E7
+Cm6 Gm9 F#dim Gm
+G#maj7(b5)\Bb Gm\C
+Dm9 F#dim Gm7 A7
+E7sus4 Fmaj7/6/9
+Bbmaj7 Am7 Dm7/9 Bbmaj7 E7(b9) A7
+C Cm\Eb Ab6 G7sus4
+Dm7/9 D9 Gm7 A7
+Cmaj7 Em7 Ebm7 Dm7 Dm7(b5)
+Bbm Ab F#maj7 Fm7 Ab7 Bbm7,
+Dm7(b5) G7 Cmaj7
+C7 F7 C7 F7 G7 F7 C7
+Cmaj7 Emaj7 Cm7 C#maj7
+F7 E7 Am
+Em7 A7 Dmaj7 Bm
+Fm Fm\E Fm\Eb Dm(b5) Dbmaj7
+Dm7 Fmaj7 Am7 E7
+Am Cmaj7 F#m7(b5) F6
+F#sus4 Dmaj7 Bm(maj6) C#7
+F#7 D9 Bm(maj6) C#7
+Emaj7/9 C#m7(b5) Cmaj7
+Fmaj7 Abmaj7 Em7/9,
+Fmaj7 Abmaj7 Cmaj7
+Em7/9 Dm7/9 Am7/9
+Ebmaj7 Gm A7 D7
+Gmaj7(#4) A6 Dmaj7 Em7/9(b5)
+Am A Dm7 Abdim
+F D Bbmaj7 Eb
+Am7/9 D9 D#dim Em7/9
+E7 Am7 F#m7(b5)
+Em7 Ebdim C7 B7
+Emaj7/9 Dm7/9 Am7
+Dm7 Gm7 C7sus4
+Dmaj6/9 C#m7
+Dm7 G7 Em7 Am7/9
+Dm7 G7 Em7 Edim\A
+C#m7(b5) Em7(b5) Am7/9 Cmaj7
+Em7 Fmaj7 F#m7(b5) Fmaj7
+Bb7 Gbm7(b5) D7 Em7
+Bb7 Gbm7(b5) Ebdim Em7
+Cmaj7 Bm7 Ebdim Em7
+Fmaj7 Em7 Dm7/9 Am7
+Fmaj7 E7(#9) Dm7/9 Am
+Am7 Cmaj7 Dm7/9 Fdim
+Am7 C\G Fmaj7 Dm7/9
+Dm7 Gm7 A
+Dmaj7 D#dim Em7/9 Em7(b5)
+Bm7 Am9
+Bm7 C#7 Em7/9 Em7(b5)
+Am7 Dm7 Am7 Dm7(b5)
+Am7 D9 Am7 E7(#9)
+D7 Gm7 Am7 Cm
+Emaj7 Dmaj7 C#m7 Cmaj7
+Am7 Cmaj7 Dm7/9 Em7
+Cm Ebmaj7 Dsus4 D7
+Em7 F#m7(b5) Am7/9 B7
+Fmaj7 G Em7 Am7
+Fmaj7 Am7\G Em7 Am7
+Am Cmaj7 Fmaj7
+Fm7 Abmaj7 Bb7 G7
+Cmaj7 C#m7(b5) Dm7 Dm7(b5)
+Bm7 Dmaj7 C#m7 F#m7
+Abmaj7 Fm7 Ebmaj7 Cmaj7/9
+Em7 E7 Am7 Am7/9(b5)
+Cmaj7 D7 Em7 D7
+Cmaj7 D9
+Fmaj7 Dm7/9 E7 Am7
+Bmaj7 Dmaj7/9 F#maj7
+Fmaj7 Em7 Am7 Dm7/9
+Cmaj7 Em7/9 Am7 Gm7/9
+Am7 Ebdim Dm7 E7
+Ebmaj7 C# Cm7 G#maj7/9
+Em7 Ebdim G Cmaj7
+Emaj7 Cmaj7 Am7 B7
+Fmaj7 Em7 Dm7 E7
+Fmaj7 E7 Dm7 E7
+Fmaj7 Bmaj7 C7
+Dmaj7 Am7 Gmaj7
+Em7 Gm7
+F#m7 E7 Dmaj7
+G B C Cm
+Am7 B7(b6) E7/9
+Gm7 D7 Ebmaj7 D7
+Cmaj7 Gmaj7 Cm Gmaj7
+Em7 Dmaj7 A7
+F#m7/9 Em7/9
+Fmaj7 Cmaj7 E7
+Fmaj7 Cmaj7 A7
+Dm7 Gm7(b5)
+Cm7 Bb D7
+Cm7 Bb\D Daug Gm
+Cm Fm F#dim G7
+Cm7 G7
+B7 Cmaj7
+G F E Amaj7 Gmaj7 Dmaj7
+Cmaj7 Dm7 Cmaj7 Fmaj7
+Am7 C7 Fmaj7 Dm7
+Am7 C7 Fmaj7 E7
+Am7 C7 Fmaj7 A#dim
+Am7 Bm7 Cm7 Dm7
+Am7 Dm7 B7 E7
+Am7 Am7(b5) Dm7 Dm7(b5)
+Em7 F#m7 A Gmaj7
+Dm7 B7 E
+Dmaj7 Gmaj7 Bm7
+Am(maj6) Bm7 Gmaj7 Fm7
+Am7 B7 Gmaj7 F7
+G Am F#m7 B
+Bm7 Bbm7 Am7 Adim Gmaj7 Gb7(b9)
+Cm7 D7 Fm Cm
+Cm7 D7 Fm Cm Cm7 D7 G7
+Gmaj7 Am7 Bm7 Am7 Am7(b5)
+Dsus4 Bbmaj7 Gm7
+Dm7 Gm7 Gm7(b5)
+Cmaj7 F7 Dm D
+C C#maj7
+F C#maj7
+Dmaj7/9 Fmaj7
+Amaj7 Dmaj7/9 Fmaj7
+Am Gm7 C7 Gm7
+Abmaj6/7 G7sus4 G7 Cm7 C7sus4 C7
+Em7 Abdim Cmaj7 Cmaj7(b3)
+Dm7/9 Bmaj7 Gm7 C7
+Am7 F7 B7 Dm7
+Bmaj7 Em7/9
+Am7 Bdim Dm7/9 Dm7(b5)
+Fm7 C7sus4 C7
+Bm7 G7/9 Em7/9 C#7(b13) F#7
+Bm7 G7/9 Em7/9 C#m7(b5) F#7
+C E7 Am Gmaj6 Fmaj7
+Cm7 Abmaj7 Fm7
+Cm7/9 F#maj7/9
+Am7 D7/9 G C7sus4 C7
+Am7 D7/9 Gm7 C7 Fmaj7 Bbmaj7 Gm7 C
+Bbmaj7 A7(b13) D7/9 D7
+Cm7 Abm7 Fm7 Gm7
+Cm7 Abm7 Fm7 G7
+Am7 D7 Dm7
+Am7 D7 Fmaj7
+Am7 D7 Fmaj7 F7
+D F E D
+D Fmaj7 Ebmaj7 D
+F Daug Gm C7
+F Daug Gm Bbm7
+Bmaj7 Bbdim Abm Db7
+Bmaj7 Bbdim Abm Db7 Emaj7/9 Eb7(b9) Db7
+Fm7 Dm7(#5) C#maj7 C7sus4
+Em F#dim G Am7
+Gm7 Cm7 F F#dim
+C E7 Fmaj7 G
+Am7 G7 Fmaj7 Fmaj7/9
+Bbmaj7 Gmaj7
+Dmaj7 Bm7 Amaj7 Gmaj7
+Ebmaj7 Cm7 Dm7 Gm7/9
+A# Dm Gm7 C7
+A#9 Dm7(#5) Gm7(#5) C7sus4
+G A A#7 C7
+D7 Ebmaj7 F6 F#dim
+Gm9 F#maj7/9 Fmaj7/9 D7(b13)
+Gmaj7\A Dmaj7 Em7 Em7(b5)
+Gmaj7\A Dmaj7 Em7 Gm7
+F E7sus4 E7 A C
+C D Fmaj7 Fm
+C Em Fmaj7 Fm
+Dm7 F\C Bm7(b5) Bbmaj7
+C Abmaj7 C Fm7/9
+Cmaj7 Abmaj7 Cmaj7 Fm7/9
+Emaj7/9 F#m7/9 D7
+Am7 C Fmaj7 Dm7
+Bbm7 Ab Ebm7 Gbmaj7
+Cm7 F7/6/9 Abmaj7\Bb Ebmaj7
+B Baug Edim G7
+Bm7 F# G7 E
+Bm7 F# G7 D
+Fmaj7 Em7 A7sus4 Am7
+Fmaj7 Em7 A7sus4 A7
+C C7 F D7
+Abmaj7 Abmaj7\Bb Gm\C
+Dm F Gm7/9
+G7 Bm C7
+Bm7 Emaj6/9 Amaj7 A#dim
+C E Am D
+Cmaj7 E7 Am7/9 D7/9
+C Gaug
+E C\D A
+D F Bbmaj7 Gm7
+Cmaj7 Dsus4 D E
+Em7/9 F#m7 Bmaj7
+Bmaj7 Fm7(b5) Emaj7 Emaj7(b3)
+Bmaj7 Fm7(b5) Em7 F#m7
+Bmaj7 Abm7 Em7 F#
+Em D C B7
+Fmaj6 E7aug Am7/9 D7/9
+Cm7 D7(b9) Gm7 G
+G E7aug Am7 Am7(b5)
+D E7 Gm7 Gm(maj6)
+Bb Dm7/9 Am7 A7
+Am7/9 Am7/9(b5) D7 Gmaj7
+Cmaj7 Em7 A7 Dm7 D7 G
+Dm7 G7 Dm Fm
+Ebmaj7 Dm7 Dbmaj7 C
+Dm7/9 Bbmaj7 Gm7 A7
+Bb7 Dm Ebmaj7 C7sus4
+Am7/9 Dm7 Fm Gsus4
+Ebmaj7 Gm7 Daug Gm7
+Ebmaj7\F Gm7/13
+Eb Bbmaj7 Daug Gm
+Em7 Cmaj7 Am7 B7
+Abmaj7 Fm7 D7 G
+D Abmaj7
+Fm7/9 G#m7 Gm7 Cm
+Fm7/9 G#7 Gm7 Cm
+Bm7 Bm7(b5) Gmaj7 G7
+Emaj7 D Cm7/9 G
+C D
+Emaj7/9 Amaj7 Ab7
+F#m Gmaj7/9 Dmaj7/9
+Gm7 Ebmaj7 Cm7
+Em7 G\D C#m7(b5) Cmaj7
+Am7 Cmaj7 F#m(b5) Fmaj7
+F6 Fm(maj6) Cmaj7 C7
+Am7 F7 Dm7
+Fmaj7 E7 G\A A7
+Fmaj6 E7 G\A A7/9
+Am7 Gm7
+Fm7 Abmaj7 D7(b9) G7aug
+Dm7/9 Em Gm7/9 Gm7(b5)
+Dm7/9 E7 Gm7/9 A7
+Em7 C7 A7 Am7
+Em7 B7 A7 Am7
+Cmaj7 Ebmaj7 C\D Gsus4
+Bm7 G7
+Amaj7 Dmaj7 Abm7(b5) Db7
+Em A F#m7 Bm7
+Em7 G\A F#m7 Bm7
+Emaj7 D7 Gm7 Bbmaj7
+Emaj7 D7 Gm7 Bbmaj7 Cm7 D7 Gm7
+G\A D C G
+F#m7 E Dmaj7/9 Bm(maj6)
+Gmaj7 Gb Bm7 Esus4
+A Gm\C
+Am7 D7 G E7
+Am7 D7/9 Gmaj7 E7/9
+Dm7 G7 Ab6 G7
+Cm7 G7 Abmaj7 G7
+Cmaj7 Em7 Am7 B7(#5)
+Am7 Cmaj7 Dm(maj6) Cmaj7
+Bb A C Gm Bb A Ab Gm
+Dmaj7 Am7 Gmaj7 Bbmaj7
+Bbmaj7 D7 Cm7 F7
+Dmaj7/9 Dm7/9 G7/13
+Dmaj7 Bm7 F#m7 Amaj7
+Emaj7/9 F#7/9 Emaj7/9 Am7
+Em7/9 C6
+Fmaj7/9 Bbmaj7 Bb\C Fmaj7
+Em7 C#m7(b5) C\D G
+Gm7 Bb Em7(b5) Ebmaj7
+D7/9 Gm7/9 A7(b13) A7
+Emaj7 Amaj7 Emaj7 Amaj7 D7
+Fmaj7/9 Abmaj7 Cmaj7/9 C7
+Am7 Fmaj7 Em7 E7
+G7/9sus4 Bbmaj7/9 Ebmaj7
+Am7 G7 E7
+Cm7 Bdim Bb7/13 G7
+Cmaj7 Emaj7 Dm7 C#maj7
+Fm C#maj7 Bbm7 C7
+D7 F6 E Ebmaj7
+Bm7 D7/9 Gmaj7
+Gm7 Em7(b5) Dbdim Dm7
+Gm7 Em7(b5) Ebmaj7 D7sus4 D7
+Gm7 Am7(b5) D7 Gm7 Em7(b5) D7
+Gm7 Em7(b5) Cm7 D7
+Gm Em7(b5) Cm7 Cdim
+Bmaj7 B7 G#m7 Gmaj7
+Em7 C#m7(b5) Cmaj7 D
+Em7 C#m7(b5) Cmaj7 C#m7(b5)
+Dmaj7 Em7 A7(b13)
+Em7 C#m7(b5) Cmaj7 Gmaj7
+Ebmaj7 Cm7 D7
+C Dm Em F\G
+Cmaj7/9 Dm7/9 Abmaj7 F\G
+Fmaj7 Dm7 E7 Am7
+Fmaj7 Dm7 Am7 E7
+Am7 F#m7(b5) B7 E
+C E7 Am C7 Fmaj7 B7 E
+Gmaj7/9 F#7(#9) Dmaj7/9 D#m7(b5)
+Gmaj7/9 F#7(#9) Dmaj7/9 B7
+Ebmaj7 Em7(b5) Fmaj7 Bbmaj7
+Ab Dm7(b5) Dbmaj7
+Ab Dm7(b5) Dbmaj7 Emaj7
+B7(b13) Am7(b5) Em7/9 Am7/9
+Cm7 Am7(b5) Em7/9
+Dmaj7 Bbmaj7 C D
+Fmaj6 Ebmaj7
+Fmaj7 Em7 G\A A
+Am7 C Fmaj7 Bb
+Abm Dbm A Gbm7
+C D7/9 Fmaj7 F\G
+C D7/9 F\G
+C Dm7(b5) Am7 E7
+D\E Bm7\C
+Cmaj7 Bm7 D\E
+E Am7 D B7
+Fmaj7 Em7 E7 Am7
+Cmaj7 Ebmaj6 F7/9
+Cmaj7 Am7 Bbmaj7 E7
+Fmaj7 Em7 A7sus4 A7 Dm7 Dm7(b5) F\G Cmaj7
+Fmaj7 F#m7(b5) Gm7 C7
+Ebmaj7 Em7(b5) Abmaj7 Gm7
+C D7 F\G C
+C Bb Ab F\A
+D C B7 Em7/9 G\A
+Amaj7/9 Fmaj6 Dm F\G
+Fmaj7/9 Fm7/9 Ebmaj7 Cm7
+Fmaj7/9 Fm7/9 Gm Cm7
+F G7 Bb
+F G7 Bb Gm7(b5)
+F G7 Bb Bb\C
+F G7 Bb F G7 Bb Bb\C
+A G D C
+Dm Fm C C7
+Dm7/9 Fm7 Cmaj7 C7
+Csus4 Csus4\Eb Csus4\Ab Csus4\F
+Bb C# F F7
+Bb C# Fm F7
+Fmaj7 E7 Gm7/9 Gm7/9(b5)
+Fmaj7 Fm\Eb Dm7 Dbmaj7
+E7sus4 C6 Am(maj6) B7
+Gm7/9 Fmaj7/9 D7(b9)
+C Em F6
+Dm Bb G Bb
+Dm Bb G Gm
+Dm Bb\F G Gm
+Abmaj7 B6 Db Abmaj7
+Emaj7 Cmaj7
+Cmaj7 Am7 D7/9 F\G
+Cm Csus2\D Abmaj7
+A F G
+A D\F Gsus2
+Fm7 Eb Gm7
+Fm7 Eb G
+Gm7 A7 Dm7 Am7
+Gm7 A7\C# Dm7 D7
+Bbmaj7 A7\C# Dm7 Gm7
+Bbmaj7 A7\C# Dm7 G
+Bbmaj7 A7\C# Dm7 D7
+Cm Ab Fm G
+Bm Bmaj7 G Gm
+Em D G B
+Em C A
+Cm D G7
+Gm7\C Gm7\Eb
+C E7 Am
+F Gm Bb Bbm
+F Gm Bb C7
+Cm Bb D Gm
+Dm7/9 Esus4 Dm7/9 E7
+Dm F\G C A7
+Cm Gm G Fm
 
-Gm7/11 Ebmaj7 Em7(b5) A7,G
-A7 Dm7,D
-Dmaj7 F#maj7 Em7/9 Em7(b5),D
-Dm7 Fmaj7\Bb,D
-Fmaj7\Bb Am Gm7/9 Dm7/9,D
-Gmaj7/9 Dmaj7/9 Fmaj7/9 Cmaj7/9,D
-Gm7 Am7 Bbmaj7,G
-Em7 Am7 F#dim B7,E
-Gm7 Gm6 Ebmaj7 Em7(b5),G
-Bb7 A7 Dm7 C Bb7 A7 Dm,D
-Am7 C7 D9 Fmaj7 E7,A
-Cm6 Gm9 F#dim Gm,G
-G#maj7(b5)\Bb Gm\C,C
-Dm9 F#dim Gm7 A7,D
-Esus4/7 Fmaj7/6/9,C
-Bbmaj7 Am7 Dm7/9 Bbmaj7 E7(b9) A7,D
-C Cm\Eb Ab6 Gsus4/7,C
-Dm7/9 D9 Gm7 A7,D
-Cmaj7 Em7 Ebm7 Dm7 Dm7(b5),C
-Bbm Ab F#maj7 Fm7 Ab7 Bbm7,Bb
-Dm7(b5) G7 Cmaj7,C
-C7 F7 C7 F7 G7 F7 C7,C
-Cmaj7 Emaj7 Cm7 C#maj7,C
-F7 E7 Am,A
-Em7 A7 Dmaj7 Bm,A
-Fm Fm\E Fm\Eb Dm(b5) Dbmaj7,F
+C Eb Ab F
+C Ebmaj7 F Abmaj7
+Csus2 Csus2\Eb Csus2\F Csus2\Ab
+C#maj7 Csus4 C
+Cm(maj6) Abm(maj6)
+Am7/9 Fmaj7
+Am7/9 Bbmaj7/9
+Bb6 Abmaj7 G
+Asus4 Abmaj7 Ab\Bb C
+Eb\C F9\C
+Am7 Am(maj6)
+Cmaj6/9 Gmaj7 F Fm(maj6)
+A F7
+Cmaj7 Cm(maj6) Bm7 Em7
+Cmaj7 Cm(maj6) Bm7 G6
+C Em Bb F
+Cmaj7 Em7 Em7(b5) F Fm
+Eb6 D7sus4
+F6 E7 Ebmaj7 D
+Cm Bb Fm G7(b13)
+Em7/9 A6 Bm11 B7(b13)
+Cm7 Bb6
+Fmaj7 D7 A
+Fmaj7 D7 Fmaj7 A
+Eb Abmaj7 Dbmaj7 C
+Csus4\Eb Csus4\Ab Csus4\Db Csus4
+Fmaj7 Em7 Ebmaj7 Cm7
+Cmaj7 Eb6
+Fmaj7 E7 A\G A
+Cmaj7 B7 D\E Dm7(b5)
+Gmaj7/9 D\E
+Em7/9 A6 Bm7/9
+Em7/9 A6 Bm7/9 B7(b9)
+Em7/9 A6 Bm7/9 Bbm7/9
+Gm7 Gm7(b5) Fm7/9 Fm7/9(b5)
+C\D Gm7/9
+F A7 Bb G Gm7(b5) F
+F G Gm Gm7(b5)
+Fmaj7 Gm7 Bbmaj7 Gm7(b5)\C
+Gmaj7 Em7 Am7 D7
+Gmaj7 Em7 Am7 Cm
+Gmaj7 Em7 Am7 Am7(b5)
+Gmaj7 Em7 Am7 Abmaj7
+Ebmaj7 F7 Fm7 Ab\Bb
+F6/9 Dm7/9 Ab\Bb Ebmaj7
+Eb Bb G
+Gm A7 Ebmaj7 Em7(b5)
+G Bb7 A7 D7
+G E7 Am7 D7
+Dm7(b5) Bb7/13 Cm7/9
+C#maj7 Cm7/11 F7/9
+Dm Bbmaj7/9 Gm7/9 A7(#5)
+Gmaj7 Em7/9
+Am7/13 D7 B7(b13) Em7/9
+Fm7 C#maj7 C#m7 G
+Gmaj7 Gm7 D6
+Am D\F# F E7
+Am7/9 D\F# F6/9
+Emaj7/9 Em7/9 A7/13 B7(b13)
+D Bb6 Gm7 D
+Fmaj6/9 C#maj7 D#maj7 F
+Am7 Fmaj7
+F#m7/9 C#maj7
+Em7/9 Cmaj7 F#m7(b5) B7
+F#maj7 G# A#m7 A#7(#5)
+Fsus4\G Csus4\D
+Fsus4\G Csus4\Eb
+C Bbm7/9 Abmaj7 F\G
+C Bbm7/9
+Am B7 Bbmaj7 Am
+Am B Bb Am
+Dm Gm Dm\F E7 A7
+Am7 D\F# F6 E7
+Gm7/9 Gdim\C Am7 Dm
+Dm7 Bbmaj7 Abdim A7
+Amaj7 C#m7 Bm7 E7
+Em7 D7 Cmaj7 G B7
+Fmaj7 Bm7(b5) Abdim Am7
+Cmaj6 Gm7 F#dim Fm7 Bb7
+Cmaj7 E7 G6 F#7sus4
+D Dm\F E7
+C E7 Am Bb
+Fmaj7 Bbmaj7 Am7
+Am7/9 Fmaj6 Dm7/9
+Am7/9 Fmaj6 Dm7/9 E7
+F Dm7/9 Eb6/9
+F Dm7/9 Cmaj7 F Dm7/9 Eb6/9
+Bm7 Am7 Em7 Bm7 Am7 B7(b13)
+A C7 D7 C7
+Gm7 Am7 Dm7/9 Bb7
+Gm7/13 Am7/13 Dm7/9 Bb7/9
+Ebmaj7 D7 Gm7 Bb7 Ebmaj7 Dm7 Gm7
+G D Bb C
+G D Bb Cm
+G F\A Bb Cm
+G F\A B Cm G D\A B Cm 
+Dmaj7/9 F#m7(b5) Gmaj7 Gm7
+Gm7 Bbmaj7 Am7 Abmaj7
